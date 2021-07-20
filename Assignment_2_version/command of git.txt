@@ -1,0 +1,16 @@
+git checkout:
+here git checkout is for checking out from one branch to other branch 
+git checkout new_branch_name
+eg git checkout master
+
+git stash:
+if we want to switch branch between then the unchanged data will be deleted to save that git stash is used it store in temporary bases in memory 
+eg: git stash
+after switching from one branch to other once work done we can again pop it by pop keyword
+eg git stash pop 
+
+git reset
+it erase the changes in the different stages there are three command 
+git reset --soft
+git reset --mixed
+git reset --hard

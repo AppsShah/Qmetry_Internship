@@ -1,0 +1,22 @@
+closure
+clouser is nothing but function + its lexical scope bundle or surrounding bundle
+its example is
+function a()
+{
+	int a =10;
+	function b()
+	{
+		console.log(a)
+	}
+}
+hoisting
+global execution contest
+working of javascript runtime engine
+working of event loop
+differnece between call back queue and micro task queue
+async behvaiour inside call stack
+uses of let const var
+currying
+diff between arrow function and odinary function
+working and diff of promises and callbacks
+
